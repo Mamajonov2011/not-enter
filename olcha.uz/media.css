@@ -1,0 +1,243 @@
+@media (max-width: 1024px) {
+    .img-div img {
+        width: 100%;
+    }
+    .about {
+        display: none !important;
+    }
+    .images {
+        width: 100% !important;
+        padding: 0 !important;
+    }
+    .images .two-div {
+        width: 100%;
+    }
+    .images .two-div{
+        display: block;
+    }
+    .images .two-div .left {
+        width: 100%;
+    }
+    .images .two-div .right {
+        width: 100%;
+        position: relative;
+        left: 0;
+        margin-left: 0 !important;
+        justify-content: start;
+    }
+    .flex {
+        display: block;
+    }
+    .flex .shop-1 {
+        width: 50%;
+    }
+    .search {
+        width: 100%;
+        padding: 0 !important;
+        margin-left: 0 !important;
+        margin-bottom: 20px;
+    }
+    .search .button span b {
+        display: none !important;
+    }
+    .search .action {
+        display: none;
+    }
+    .search .input {
+        width: 100%;
+    }
+    .search .input input {
+        width: 100%;
+        padding-left: 50px !important;
+    }
+    .search .input button {
+        position: relative;
+        left: -750px;
+        background: none !important;
+        color: #111;
+        width: 20px !important;
+    }
+    .card .div {
+        display: flex;
+        align-items: center;
+    }
+    .small-divs {
+        padding: 0 !important;
+        flex-wrap: wrap;
+    }
+    .small-divs .hello {
+        display: block !important;
+    }
+    .cards-3 {
+        display: block;
+        padding: 0 !important;
+    }
+    .cards-3 .card-3 img {
+        width: 100%;
+    }
+    .shops {
+        display: block;
+        padding: 0 !important;
+    }
+    .shops .flex {
+        width: 100%;
+    }
+    .shops .flex .shop-1 {
+        width: 50%;
+    }
+    .little {
+        padding: 0 !important;
+    }
+    .nonee {
+        display: block;
+    }
+    .none {
+        display: none !important;
+    }
+    .small {
+        padding: 0 10px !important;
+    }
+
+    .dives {
+        padding: 0 20px !important;
+    }
+    .two-img {
+        display: block;
+        padding: 0 !important;
+        margin-top: 50px;
+    }
+    .two-img img {
+        width: 98% !important;
+    }
+
+    .left-right {
+        display: block;
+        padding: 0 !important;
+    }
+
+    .left-right .left-page {
+        width: 95%;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        padding: 0 10px;
+        margin: 40px 0;
+    }
+    .left-right .right-page .shop-1 {
+        width: 100%;
+    }
+    .left-right .right-page .shop-1 .text {
+        margin-left: 100px;
+    }
+    .left-right .e {
+        margin-top: 10px !important;
+    }
+}
+
+@media (max-width: 1397px) {
+    .images {
+        width: 100% !important;
+        padding: 0 20px !important;
+    }
+    .search .button {
+        display: flex !important;
+    }
+    .none {
+        display: none !important;
+    }
+}
+
+
+@media (max-width: 694px) {
+    .flex {
+        display: block;
+    }
+    .flex .shop-1 {
+        width: 50%;
+    }
+    .one .shop-1 {
+        width: 100% !important;
+    }
+    .nonee {
+        display: none !important;
+        flex-wrap: wrap;
+    }
+    .nonee {
+        display: block;
+    }
+}
+
+/* 689 */
+@media (max-width: 689px) {
+    .four-div {
+        display: block !important;
+    }
+    .four-div .shop-1 {
+        width: 100%;
+    }
+    .little {
+        width: 100% !important;
+        display: block !important;
+    }
+    .little .flex {
+        display: flex;
+        margin-top: 20px;
+    }
+    .cards-3 .card-3 {
+        margin-left: 0px !important;
+    }
+    .search .logo {
+        display: none;
+    }
+    .input {
+        padding-left: 5px !important;
+    }
+}
+
+@media (max-width: 414px) {
+    .four-div {
+        display: block;
+        width: 100%;
+    }
+    .four-div .shop-1 {
+        width: 100%;
+    }
+    .right {
+        width: 100%;
+    }
+    .little {
+        display: block !important;
+    }
+    .little .flex {
+        display: flex;
+    }
+    .cards-3 {
+        width: 100% !important;
+        padding: 0 !important;
+    }
+    .cards-3 .card-3 {
+        margin-left: 0px !important;
+    }
+    .cards-3 .card-3 img {
+        width: 100% !important;
+        margin-left: 0 !important;
+    }
+    .container {
+        width: 100% !important;
+        padding: 0 !important;
+    }
+    .shop-1 {
+        width: 100% ;
+    }
+    * {
+        display: flex !important;
+        align-items: center !important;
+        justify-content: center !important;
+    }
+    .search {
+        width: 100% !important;
+    }
+    .search .input {
+        width: 100% !important;
+    }
+}
